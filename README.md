@@ -37,17 +37,5 @@ curl http://example.com
 #### Step 5: Stop the Program
 Press `Ctrl + C`
 
-### Sample Output
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-[ETHERNET]
-Source MAC: 00:15:5d:5f:44:95
-Destination MAC: 00:15:5d:a2:79:db
-[IP]
-TTL (Time To Live): 64
-[TCP]
-Source Port: 34636
-Destination Port: 80
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 ### Author
 Jenny Nguyen - CPAN226
